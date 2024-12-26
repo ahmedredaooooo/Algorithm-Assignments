@@ -1,0 +1,30 @@
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[TEMPLATE]\CommonElements\bin\Debug\CommonElements.exe.config
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[TEMPLATE]\CommonElements\bin\Debug\CommonElements.exe
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[TEMPLATE]\CommonElements\bin\Debug\CommonElements.pdb
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.csproj.AssemblyReference.cache
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.csproj.SuggestedBindingRedirects.cache
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.exe
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[TEMPLATE]\CommonElements\bin\Debug\CommonElements.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[TEMPLATE]\CommonElements\bin\Debug\CommonElements.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[TEMPLATE]\CommonElements\bin\Debug\CommonElements.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.csproj.AssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.csproj.SuggestedBindingRedirects.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.csproj.CoreCompileInputs.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.pdb
+F:\6th Semester\Common\Analysis & Design of Algorithms\3 Assignments\Ass2\[U] CommonItems\[TEMPLATE]\CommonElements\bin\Debug\CommonElements.exe.config
+F:\6th Semester\Common\Analysis & Design of Algorithms\3 Assignments\Ass2\[U] CommonItems\[TEMPLATE]\CommonElements\bin\Debug\CommonElements.exe
+F:\6th Semester\Common\Analysis & Design of Algorithms\3 Assignments\Ass2\[U] CommonItems\[TEMPLATE]\CommonElements\bin\Debug\CommonElements.pdb
+F:\6th Semester\Common\Analysis & Design of Algorithms\3 Assignments\Ass2\[U] CommonItems\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.csproj.AssemblyReference.cache
+F:\6th Semester\Common\Analysis & Design of Algorithms\3 Assignments\Ass2\[U] CommonItems\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.csproj.CoreCompileInputs.cache
+F:\6th Semester\Common\Analysis & Design of Algorithms\3 Assignments\Ass2\[U] CommonItems\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.exe
+F:\6th Semester\Common\Analysis & Design of Algorithms\3 Assignments\Ass2\[U] CommonItems\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.pdb
+E:\6th Semester\Common\Analysis & Design of Algorithms\3 Assignments\Ass2\[U] CommonItems\[TEMPLATE]\CommonElements\bin\Debug\CommonElements.exe.config
+E:\6th Semester\Common\Analysis & Design of Algorithms\3 Assignments\Ass2\[U] CommonItems\[TEMPLATE]\CommonElements\bin\Debug\CommonElements.exe
+E:\6th Semester\Common\Analysis & Design of Algorithms\3 Assignments\Ass2\[U] CommonItems\[TEMPLATE]\CommonElements\bin\Debug\CommonElements.pdb
+E:\6th Semester\Common\Analysis & Design of Algorithms\3 Assignments\Ass2\[U] CommonItems\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.csproj.AssemblyReference.cache
+E:\6th Semester\Common\Analysis & Design of Algorithms\3 Assignments\Ass2\[U] CommonItems\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.csproj.CoreCompileInputs.cache
+E:\6th Semester\Common\Analysis & Design of Algorithms\3 Assignments\Ass2\[U] CommonItems\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.exe
+E:\6th Semester\Common\Analysis & Design of Algorithms\3 Assignments\Ass2\[U] CommonItems\[TEMPLATE]\CommonElements\obj\Debug\CommonElements.pdb
