@@ -1,2 +1,3 @@
 # Algorithm-Assignments
-3 graded Assignments for Algorithm Analysis and Design Course in FCIS ASU
+### Date: April-2024
+3 graded assignments about [Divide & Conquer - Greedy - Graph]
